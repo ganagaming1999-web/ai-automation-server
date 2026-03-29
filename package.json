@@ -1,0 +1,13 @@
+{
+  "name": "ai-secret-base",
+  "version": "1.0.0",
+  "description": "n8n server for AI automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n",
+    "build": "echo 'Building...'"
+  },
+  "dependencies": {
+    "n8n": "latest"
+  }
+}
